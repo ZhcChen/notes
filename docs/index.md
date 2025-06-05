@@ -8,11 +8,11 @@ hero:
   tagline: 来自一个丢三落四的～人
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 📚 文档导航
+      link: /nav
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 📝 更新日志
+      link: /changelog
 
 features:
   - icon:

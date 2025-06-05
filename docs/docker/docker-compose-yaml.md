@@ -1,6 +1,6 @@
 # 常用配置
 
-Docker Compose 常用 yaml 配置
+> Docker Compose 常用 yaml 配置
 配置采用 v3 版本，所以省略了 version 字段
 
 ## PostgreSQL
