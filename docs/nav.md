@@ -4,13 +4,13 @@
 
 ## 🖥️ 编程类
 
-### [📦 Rust 编程语言](./rust/)
+### [📦 Rust 编程语言](./rust/index)
 > 系统级编程语言，注重安全性、速度和并发性
 
-### [🐳 Docker 容器化](./docker/)
+### [🐳 Docker 容器化](./docker/index)
 > 应用容器化平台，简化部署和运维
 
-### [🌐 Caddy2 Web 服务器](./caddy2/)
+### [🌐 Caddy2 Web 服务器](./caddy2/index)
 > 现代化的 Web 服务器，自动 HTTPS 和简单配置
 
 ---

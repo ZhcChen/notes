@@ -76,7 +76,7 @@ Docker 的配置文件是 `daemon.json`。你需要修改这个文件来添加�
       "exec-opts": ["native.cgroupdriver=systemd"]
     }
     ```
-    修改后应该是：
+*   修改后应该是：
     ```json
     {
       "exec-opts": ["native.cgroupdriver=systemd"],
