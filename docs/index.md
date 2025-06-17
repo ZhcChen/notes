@@ -14,6 +14,10 @@ hero:
       text: 📝 更新日志
       link: /changelog
 
+footer:
+  message: 基于 MIT 许可发布
+  copyright: Copyright © 2025-present | <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备2025102426号-1</a>
+
 features:
   - icon:
       src: /img/programmer_meme.png
